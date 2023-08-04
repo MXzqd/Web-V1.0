@@ -1,0 +1,10 @@
+
+.stri{
+    margin: auto;
+    background-color: blue;
+    width: 0px;
+    height: 0px;
+    border-bottom: 8px solid #ff2121;
+    border-left: 8px solid greenyellow;
+    border-right: 8px solid greenyellow;
+}
